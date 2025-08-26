@@ -5,7 +5,7 @@ A modern, interactive web app to calculate **Simple Interest** and **Total Amoun
 ---
 
 ## 🔗 Live Demo
-Try it online: [GitHub Pages Demo](https://<your-username>.github.io/Interest-Calculator/)
+Try it online: [GitHub Pages Demo](https://<vivekyadav03>.github.io/Interest-Calculator/)
 
 *(Replace `<your-username>` with your GitHub username)*
 
